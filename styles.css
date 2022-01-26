@@ -1,0 +1,134 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 50px;
+  font-family: 'Sedgwick Ave', cursive;
+  margin-bottom: 6px;
+  font-size: 4rem;
+  line-height: 2;
+}
+.intro{
+  width: 40%;
+  margin: auto;
+}
+
+.head {
+  color: white;
+}
+
+h2 {
+  font-size: 3.5rem;
+  margin-top: 6px;
+  font-family: 'Dongle', sans-serif;
+  font-weight: normal;
+  color: #F6830F;
+}
+
+h3 {
+  font-family: 'Dongle', sans-serif;
+  color: orange;
+  font-size: 1.8rem;
+}
+
+a {
+  color: orange;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 1;
+}
+
+.medi {
+  width: 35%;
+  float: right;
+  margin-left: 30px;
+}
+
+.shadow {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+hr {
+  border: dotted grey 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto 100px;
+}
+
+p {
+  font-family: 'Dongle', sans-serif;
+  font-size: 26px;
+
+}
+
+.top-container {
+  background-color: orange;
+  position: relative;
+  padding: 50px 0 0 0;
+}
+
+.middle-container {
+  margin: 60px auto 60px;
+}
+
+.mar{
+  width: 30%;
+  margin: auto auto 60px
+}
+
+.btn{background: #F6830F;
+  text-decoration: none;
+  color: white;
+  padding: 2px 30px;
+  border-radius: 10px;
+  font-size: 30px;
+  font-family: 'Dongle', sans-serif;
+  font-weight: bold;
+}
+.btn:hover{
+  background-color: orange;
+}
+
+
+.bottom-container {
+  padding: 40px;
+  margin-top: 100px;
+  background-color: orange;
+
+}
+.footer-link{
+  color: grey;
+  text-decoration: none;
+  margin: 10px 30px;
+    font-family: 'Dongle', sans-serif;
+    font-size: 30px;
+}
+.footer-link:hover{
+  color: white;
+}
+
+.copy{
+  color: grey;
+font-family: 'Dongle', sans-serif;
+font-size: 22px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 450px;
+  top: 40px;
+}
